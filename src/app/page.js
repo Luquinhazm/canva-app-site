@@ -87,7 +87,7 @@ export default function Home() {
       </section>
 
       <section className=" relative min-h-dvh  bg-cover bg-center flex flex-col items-center justify-center gap-16 px-4 py-20 text-white text-center">
-         <Image src={'/BackgroundSection.png'} width={'520'} height={'100'} className="absolute inset-0 h-full w-full object-cover -z-10"></Image>
+         <Image src={'/1.png'} width={'520'} height={'100'} className="absolute inset-0 h-full w-full object-cover -z-10"></Image>
         <h1 className="text-3xl uppercase leading-tight">
           O que os nossos <br /> Clientes dizem
         </h1>
