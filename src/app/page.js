@@ -86,7 +86,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="min-h-dvh bg-[url('/Backgroundsection.png')] bg-cover bg-center flex flex-col items-center justify-center gap-16 px-4 py-20 text-white text-center">
+      <section className="min-h-dvh bg-[url('/BackgroundSection.png')] bg-cover bg-center flex flex-col items-center justify-center gap-16 px-4 py-20 text-white text-center">
         <h1 className="text-3xl uppercase leading-tight">
           O que os nossos <br /> Clientes dizem
         </h1>
