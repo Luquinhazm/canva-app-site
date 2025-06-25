@@ -80,7 +80,7 @@ export default function Home() {
       </section>
 
       <section className="md:h-[80dvh] text-black bg-[#f1f1f1] flex flex-col items-center">
-        <h1 className="text-3xl mt-28 uppercase">Clientefss</h1>
+        <h1 className="text-3xl mt-28 uppercase">Clientes</h1>
         <div className="mt-24">
           <Image src={'/Clientes.png'} width={'1080'} height={'320'} />
         </div>
