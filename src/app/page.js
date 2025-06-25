@@ -37,7 +37,7 @@ export default function Home() {
             Este bloco de texto oferece <br /> uma breve visão geral da empresa.
           </p>
           <p className="uppercase text-center">
-            Compartilhe sua filosofia, visão <br /> ou mantra aqui.
+            Compartilhe sua fiosofia, visão <br /> ou mantra aqui.
           </p>
         </div>
 
